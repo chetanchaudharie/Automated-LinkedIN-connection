@@ -4,6 +4,8 @@ This Python script automates the process of sending connection requests on Linke
 
 This is a Python script that automates the process of adding connections on LinkedIn. The script uses Selenium WebDriver to log in to LinkedIn and send connection requests to people in your network.
 
+**Works only with Google Chrome**
+
 ## Features
 
 - **Automatic Login**: Logs in to your LinkedIn account with provided credentials.
