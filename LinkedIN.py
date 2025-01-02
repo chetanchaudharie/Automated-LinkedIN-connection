@@ -5,8 +5,8 @@ from selenium.webdriver.chrome.service import Service
 import time
 
 # Set up your LinkedIn credentials
-linkedin_username = 'chetanchoudharie@gmail.com'
-linkedin_password = 'cc29121995'
+linkedin_username = 'youremail@domain.com'
+linkedin_password = 'enteryourpassword'
 
 # Set up the WebDriver (make sure the path to your chromedriver is correct)
 service = Service('/random/chromedriver.exe')
